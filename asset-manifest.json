@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Nutridynamics/static/css/main.bced4274.css",
-    "main.js": "/Nutridynamics/static/js/main.ff07d2a1.js",
-    "static/js/787.28cb0dcd.chunk.js": "/Nutridynamics/static/js/787.28cb0dcd.chunk.js",
-    "static/media/food@33 1.png": "/Nutridynamics/static/media/food@33 1.dc11169d83167bdba5ab.png",
-    "static/media/delicious-preserved-food-jars-arrangement 1.png": "/Nutridynamics/static/media/delicious-preserved-food-jars-arrangement 1.45bfbd5a542f416232b2.png",
-    "static/media/top.png": "/Nutridynamics/static/media/top.33043e68c3ce72118109.png",
-    "static/media/contact.png": "/Nutridynamics/static/media/contact.54d78225917a9550b759.png",
-    "static/media/person.png": "/Nutridynamics/static/media/person.57a1d1720367e76976f0.png",
-    "static/media/Vector.png": "/Nutridynamics/static/media/Vector.46f4e721fcea04f684c5.png",
-    "static/media/Asset 2 1.png": "/Nutridynamics/static/media/Asset 2 1.defda72d2328fb10f70e.png",
-    "static/media/Logo-removebg-preview 1.png": "/Nutridynamics/static/media/Logo-removebg-preview 1.deb94d7af6becda79b6c.png",
-    "index.html": "/Nutridynamics/index.html",
-    "main.bced4274.css.map": "/Nutridynamics/static/css/main.bced4274.css.map",
-    "main.ff07d2a1.js.map": "/Nutridynamics/static/js/main.ff07d2a1.js.map",
-    "787.28cb0dcd.chunk.js.map": "/Nutridynamics/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/Nutradynamics/static/css/main.5a33fc2e.css",
+    "main.js": "/Nutradynamics/static/js/main.cbb7981f.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Nutradynamics/static/js/787.28cb0dcd.chunk.js",
+    "static/media/food@33 1.png": "/Nutradynamics/static/media/food@33 1.dc11169d83167bdba5ab.png",
+    "static/media/delicious-preserved-food-jars-arrangement 1.png": "/Nutradynamics/static/media/delicious-preserved-food-jars-arrangement 1.45bfbd5a542f416232b2.png",
+    "static/media/top.png": "/Nutradynamics/static/media/top.33043e68c3ce72118109.png",
+    "static/media/contact.png": "/Nutradynamics/static/media/contact.54d78225917a9550b759.png",
+    "static/media/person.png": "/Nutradynamics/static/media/person.57a1d1720367e76976f0.png",
+    "static/media/Vector.png": "/Nutradynamics/static/media/Vector.46f4e721fcea04f684c5.png",
+    "static/media/Asset 2 1.png": "/Nutradynamics/static/media/Asset 2 1.defda72d2328fb10f70e.png",
+    "static/media/Logo-removebg-preview 1.png": "/Nutradynamics/static/media/Logo-removebg-preview 1.deb94d7af6becda79b6c.png",
+    "index.html": "/Nutradynamics/index.html",
+    "main.5a33fc2e.css.map": "/Nutradynamics/static/css/main.5a33fc2e.css.map",
+    "main.cbb7981f.js.map": "/Nutradynamics/static/js/main.cbb7981f.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Nutradynamics/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bced4274.css",
-    "static/js/main.ff07d2a1.js"
+    "static/css/main.5a33fc2e.css",
+    "static/js/main.cbb7981f.js"
   ]
 }
